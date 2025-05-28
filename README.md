@@ -1,8 +1,8 @@
-# CardioRisk Classifier – Machine Learning Modules
+# Machine Learning Models
 
 This repository serves as a central location for storing and documenting machine learning modules developed as part of the research, design, experimentation, and deployment phases of heart disease risk prediction systems. These systems were built with the goal of assisting healthcare professionals and researchers in identifying potential heart disease risks using trained machine learning models. The repository features two primary modules, each of which played a significant and distinct role in the broader development journey.
 
-## jv-cardio.ai-module
+## JV CardioAI-MODEL.ipynb
 
 The **jv-cardio.ai-module** is the main and most advanced machine learning module within this repository. It was created specifically for the development of the **JV Cardio AI** system, a full system application designed to perform real-time or batch predictions of heart disease risk levels based on input clinical data. This module represents the final and complete implementation of the AI engine behind JV Cardio AI. It includes core model files, data preprocessing routines, prediction logic, and potentially optimized code for deployment purposes.
 
@@ -10,7 +10,7 @@ Unlike the earlier modules that were used during the prototyping and testing pha
 
 This module was built individually and independently from the earlier group work, and it was specifically designed to meet higher standards of performance, usability, and readiness for integration into a final product. It may include components such as trained classifiers, serialization formats like joblib or pickle files, evaluation scripts, and inference interfaces tailored for deployment into user-facing applications.
 
-## project-cardio-risk-classifier-module
+## Project CardioRisk Classifier-MODEL.ipynb
 
 The **project-cardio-risk-classifier-module** is the original module developed during a group-based academic project titled *Cardio Risk Classifier*. It served primarily as a prototype for the development and testing of various machine learning models intended for heart disease risk prediction. The module includes experimentation with different model types, feature selection techniques, data cleaning methods, and performance evaluation procedures.
 
